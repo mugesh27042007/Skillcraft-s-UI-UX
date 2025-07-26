@@ -17,7 +17,8 @@ This project showcases the redesign work I did as part of the internship — inc
 
 > Here's a short video walkthrough of the prototype I designed:
 
-[▶️ Watch the Prototype Video](https://drive.google.com/file/d/YOUR_VIDEO_LINK_HERE/view)
+[▶️ Watch the Prototype Video](https://drive.google.com/file/d/1EfStknxtraEyffFWySCnQ8artWSzdaEg/view)
+(https://drive.google.com/file/d/1Ej3PgJMv8wQeON_SvyrqIu0gc14tLFW8/view)
 
 ---
 
